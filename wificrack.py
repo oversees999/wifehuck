@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# PHANTOM MODE - Wi-Fi Cracker v3.0
-# Точность: частота 2.412 ГГц ±0.0001 ГГц для канала 1, шаг канала 5 МГц.
-# Энергозатраты на один PBKDF2: ≈125 мкДж при 4096 итерациях (на CPU с 2.5 ГГц).
-
 import os
 import sys
 import time
